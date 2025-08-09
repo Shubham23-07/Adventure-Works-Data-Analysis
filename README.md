@@ -18,13 +18,13 @@ Key highlights:
 ## 📊 Dashboards
 
 ### Power BI Dashboard
-![Power BI Dashboard](Adventure%20Works%20Power%20BI%20.png)
+![Power BI Dashboard](https://github.com/Shubham23-07/Adventure-Works-Data-Analysis/blob/main/Power%20BI%20Dashboard.png)
 
 ### Tableau Dashboard
-![Tableau Dashboard](Adventure%20Works%20Tableau%20Dashboard.png)
+![Tableau Dashboard](https://github.com/Shubham23-07/Adventure-Works-Data-Analysis/blob/main/Tableau%20Dashboard.png)
 
 ### Excel Dashboard
-![Excel Dashboard](Excel%20Dashboard.png)
+![Excel Dashboard](https://github.com/Shubham23-07/Adventure-Works-Data-Analysis/blob/main/Excel%20Dashboard.png)
 
 ---
 
@@ -34,6 +34,7 @@ All SQL scripts used for:
 - Joins and aggregations  
 - KPI calculations  
 - Trend analysis  
+- View Queries [View SQL Queries](https://github.com/Shubham23-07/Adventure-Works-Data-Analysis/blob/main/SQL%20Query%20.sql)
 
 ---
 
