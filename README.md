@@ -53,5 +53,3 @@ All SQL scripts used for:
 - Customer segmentation and purchasing patterns  
 
 ---
-
-## 📂 Repository Structure
